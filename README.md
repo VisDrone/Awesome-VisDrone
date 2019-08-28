@@ -24,6 +24,16 @@ Selected from 10 hours raw videos, about 80; 000 represen-tative frames are full
 
 https://sites.google.com/site/daviddo0323/projects/uavdt
 
+### Inria Aerial Image Labeling Dataset
+The Inria Aerial Image Labeling addresses a core topic in remote sensing: the automatic pixelwise labeling of aerial imagery .
+Dataset features:
+Coverage of 810 km² (405 km² for training and 405 km² for testing).
+Aerial orthorectified color imagery with a spatial resolution of 0.3 m.
+Ground truth data for two semantic classes: building and not building (publicly disclosed only for the training subset).
+The images cover dissimilar urban settlements, ranging from densely populated areas (e.g., San Francisco’s financial district) to alpine towns (e.g,. Lienz in Austrian Tyrol).
+
+https://project.inria.fr/aerialimagelabeling/
+
 
 ## Paper 
 
@@ -32,11 +42,25 @@ https://sites.google.com/site/daviddo0323/projects/uavdt
 
 Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling, Qinghua Hu: Vision Meets Drones: A Challenge. CoRR abs/1804.07437 (2018)
 
+Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge J. Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang:
+DOTA: A Large-Scale Dataset for Object Detection in Aerial Images. CVPR 2018: 3974-3983
+
+Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian, " The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking", European Conference on Computer Vision (ECCV), 2018. 
 
 ### Object Tracking 
 
+Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling, Qinghua Hu: Vision Meets Drones: A Challenge. CoRR abs/1804.07437 (2018)
 
-### Semantic Segmentation 
+Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian, " The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking", European Conference on Computer Vision (ECCV), 2018. 
+
+
+###  Segmentation 
+
+Syed Waqas Zamir, Aditya Arora, Akshita Gupta, Salman Khan, Guolei Sun, Fahad Shahbaz Khan, Fan Zhu, Ling Shao, Gui-Song Xia, Xiang Bai:iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images. CoRR abs/1905.12886 (2019)
+
+Emmanuel Maggiori, Yuliya Tarabalka, Guillaume Charpiat and Pierre Alliez. “Can Semantic Labeling Methods Generalize to Any City? The Inria Aerial Image Labeling Benchmark”. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). 2017.
+
+
 
 
 ### Crowd Analysis 
