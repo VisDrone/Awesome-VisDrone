@@ -28,8 +28,8 @@ https://sites.google.com/site/daviddo0323/projects/uavdt
 ## Paper 
 
 
-
 ### Object Detection
+    Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling, Qinghua Hu: Vision Meets Drones: A Challenge. CoRR abs/1804.07437 (2018)
 
 
 ### Object Tracking 
@@ -39,6 +39,12 @@ https://sites.google.com/site/daviddo0323/projects/uavdt
 
 
 ### Crowd Analysis 
+
+
+### Challenge Results 
+    Pengfei Zhu, Longyin Wen, Dawei Du, VisDrone-DET2018: The Vision Meets Drone Object Detection in Image Challenge Results. ECCV Workshops (5) 2018: 437-468.
+    Longyin Wen, Pengfei Zhu, Dawei Du, VisDrone-SOT2018: The Vision Meets Drone Single-Object Tracking Challenge Results. ECCV Workshops (5) 2018: 469-495. 
+    Pengfei Zhu, Longyin Wen, Dawei Du, VisDrone-VDT2018: The Vision Meets Drone Video Detection and Tracking Challenge Results. ECCV Workshops (5) 2018: 496-518. 
 
 
 ### Others 
