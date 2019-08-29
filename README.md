@@ -71,11 +71,11 @@ Emmanuel Maggiori, Yuliya Tarabalka, Guillaume Charpiat and Pierre Alliez. “Ca
 
 
 ### Challenge Results 
-Pengfei Zhu, Longyin Wen, Dawei Du, VisDrone-DET2018: The Vision Meets Drone Object Detection in Image Challenge Results. ECCV Workshops (5) 2018: 437-468.
+VisDrone-DET2018: The Vision Meets Drone Object Detection in Image Challenge Results. ECCV Workshops (5) 2018: 437-468.
 
-Longyin Wen, Pengfei Zhu, Dawei Du, VisDrone-SOT2018: The Vision Meets Drone Single-Object Tracking Challenge Results. ECCV Workshops (5) 2018: 469-495. 
+VisDrone-SOT2018: The Vision Meets Drone Single-Object Tracking Challenge Results. ECCV Workshops (5) 2018: 469-495. 
 
-Pengfei Zhu, Longyin Wen, Dawei Du, VisDrone-VDT2018: The Vision Meets Drone Video Detection and Tracking Challenge Results. ECCV Workshops (5) 2018: 496-518. 
+Dawei Du, VisDrone-VDT2018: The Vision Meets Drone Video Detection and Tracking Challenge Results. ECCV Workshops (5) 2018: 496-518. 
 
 
 ### Others 
