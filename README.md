@@ -100,7 +100,7 @@ https://github.com/VisDrone/Multi-Drone-Multi-Object-Detection-and-Tracking
 
 ### Object Detection
 
-Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling, Qinghua Hu: Vision Meets Drones: A Challenge. CoRR abs/1804.07437 (2018)
+Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling. Detection and tracking meet drones challenge. IEEE Transactions on Pattern Analysis and Machine Intelligence 44.11 (2021): 7380-7399. 
 
 Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge J. Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang:
 DOTA: A Large-Scale Dataset for Object Detection in Aerial Images. CVPR 2018: 3974-3983
@@ -109,7 +109,7 @@ Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang 
 
 ### Object Tracking 
 
-Pengfei Zhu, Longyin Wen, Xiao Bian, Haibin Ling, Qinghua Hu: Vision Meets Drones: A Challenge. CoRR abs/1804.07437 (2018)
+Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling. Detection and tracking meet drones challenge. IEEE Transactions on Pattern Analysis and Machine Intelligence 44.11 (2021): 7380-7399. 
 
 Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian, " The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking", European Conference on Computer Vision (ECCV), 2018. 
 
