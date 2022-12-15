@@ -41,6 +41,32 @@ iSAID is a benchmark dataset for instance segmentation in aerial images. This la
 https://captain-whu.github.io/iSAID/index.html
 
 
+
+### PRAI-1581
+
+To facilitate the research of person ReID in aerial imagery, we collect a large scale airborne person ReID dataset named as Person ReID for Aerial Imagery (PRAI-1581), which consists of 39,461 images of 1581 person identities. The images of the dataset are shot by two DJI consumer UAVs flying at an altitude ranging from 20 to 60 meters above the ground, which covers most of the real UAV surveillance scenarios. 
+
+https://github.com/stormyoung/PRAI-1581
+
+
+### VRAI-Dataset
+
+The VARI dataset is split to the training set and testing set, among which the training set contains 66,113 images with 6,302 IDs, and the test set contains 71,500 images with 6,720 IDs. Besides, we subsample a subset from the testing set as the testing_dev set. The testing_dev set contains 20% images of testing set.
+
+https://github.com/JiaoBL1234/VRAI-Dataset
+
+### WebUAV-3M
+WebUAV-3M contains over 3.3 million frames across 4,500 videos and offers 223 highly diverse target categories. Each video is densely annotated with bounding boxes by an efficient and scalable semiautomatic target annotation (SATA) pipeline. Importantly, to take advantage of the complementary superiority of language and audio, we enrich WebUAV-3M by innovatively providing both natural language specifications and audio descriptions. 
+
+https://github.com/983632847/WebUAV-3M
+
+###  DUT-VTUAV
+Nearly 1.7 million well-aligned RGB-T image pairs with 500 sequences for unveiling the power of RGB-T tracking(the largest RGB-T tracking benchmark so far).
+
+https://github.com/zhang-pengyu/DUT-VTUAV
+
+
+
 ## Paper 
 
 
