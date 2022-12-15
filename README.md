@@ -65,7 +65,35 @@ Nearly 1.7 million well-aligned RGB-T image pairs with 500 sequences for unveili
 
 https://github.com/zhang-pengyu/DUT-VTUAV
 
+###  DroneVehicle：
+The DroneVehicle dataset consists of a total of 56,878 images collected by the drone, half of which are RGB images, and the resting are infrared images. We have made rich annotations with oriented bounding boxes for the five categories. Among them, car has 389,779 annotations in RGB images, and 428,086 annotations in infrared images, truck has 22,123 annotations in RGB images, and 25,960 annotations in infrared images, bus has 15,333 annotations in RGB images, and 16,590 annotations in infrared images, van has 11,935 annotations in RGB images, and 12,708 annotations in infrared images, and freight car has 13,400 annotations in RGB images, and 17,173 annotations in infrared image. This dataset is available on the download page.
 
+https://github.com/VisDrone/DroneVehicle
+
+###  DroneCrowd：
+DroneCrowd, formed by 112 video clips with 33,600 high resolution frames (i.e., 1920x1080) captured in 70 different scenarios. With intensive amount of effort, our dataset provides 20,800 people trajectories with 4.8 million head annotations and several video-level attributes in sequences. 
+
+https://github.com/VisDrone/DroneCrowd
+
+###  AnimalDrone：
+A large-scale video based animal counting dataset collected by drones (AnimalDrone) for agriculture and wildlife protection. The dataset consists of two subsets, i.e., AnimalDrone-PartA that are captured on site by our own drones and AnimalDrone-PartB that are collected from Internet. Totally, there are 53,644 frames with more than 4 million object annotations and several attributes, i.e., density, altitude and view.
+ 
+https://github.com/VisDrone/AnimalDrone 
+ 
+###  DroneRGBT
+A drone based RGB-Thermal crowd counting dataset (DroneRGBT) that consists of 3600 pairs of images and covers different attributes, including height, illumination and density. 
+
+https://github.com/VisDrone/DroneRGBT
+
+###  MultiDrone
+Multi-Drone single Object Tracking (MDOT) dataset that consists of 92 groups of video clips with 113,918 high resolution frames taken by two drones and 63 groups of video clips with 145,875 high resolution frames taken by three drones.
+
+https://github.com/VisDrone/MultiDrone
+
+###  MDMT 
+To address the critical challenges of identity association and target occlusion in multi-drone multi-target tracking tasks, we collect an occlusion-aware multi-drone multi-target tracking dataset named MDMT. It contains 88 video sequences with 39,678 frames, including 11,454 different IDs of persons, bicycles, and cars.
+
+https://github.com/VisDrone/Multi-Drone-Multi-Object-Detection-and-Tracking
 
 ## Paper 
 
