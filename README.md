@@ -40,6 +40,11 @@ iSAID is a benchmark dataset for instance segmentation in aerial images. This la
 
 https://captain-whu.github.io/iSAID/index.html
 
+### University-1652
+University-1652 is a multi-view multi-source dataset containing satellite-view data, drone-view data and groundview data. It collects 1652 buildings of 72 universities around the world. The training set includes 701 buildings of 33 universities, and the testing set includes the other 951 buildings of the rest 39 universities. There are no overlapping universities in the training and test set. Since some buildings do not have enough ground-view images to cover different aspects of these buildings, the dataset also provides an additional training set. Images in the additional training set are collected from the Google Image, and they have a similar view as the
+ground-view images. Therefore, the additional training set can be used as a supplement of the ground-view images. The dataset is employed to study two new tasks, i.e., drone-view target localization (Drone -> Satellite) and drone navigation (Satellite -> Drone). There are 701 buildings with 50,218 images for training. In the drone-view target localization task (Drone -> Satellite), there are 37,855 drone-view images in the query set and 701 true-matched satellite-view images and 250 satellite-view distractors in the gallery. There is only one true-matched satellite-view image under this setting. In the drone navigation task (Satellite ! Drone), there are 701 satellite-view query images, and 37,855 true-matched droneview images and 13,500 drone-view distractors in the gallery. There are multiple true-matched drone-view images under this setting.
+
+https://github.com/layumi/University1652-Baseline
 
 
 ### PRAI-1581
@@ -123,6 +128,11 @@ Emmanuel Maggiori, Yuliya Tarabalka, Guillaume Charpiat and Pierre Alliez. “Ca
 
 ### Crowd Analysis 
 
+### Cross-view Geo-localization
+
+Zhedong Zheng, Yunchao Wei, and Yi Yang. "University-1652: A multi-view multi-source benchmark for drone-based geo-localization". ACM MM, 2020.
+
+Tingyu Wang, Zhedong Zheng, Chenggang Yan, and Yi Yang. "Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization". TCSVT 2021.
 
 ### Challenge Results 
 VisDrone-DET2018: The Vision Meets Drone Object Detection in Image Challenge Results. ECCV Workshops (5) 2018: 437-468.
@@ -137,5 +147,9 @@ VisDrone-VDT2018: The Vision Meets Drone Video Detection and Tracking Challenge 
 
 
 ## Code
+### Cross-view Geo-localization
+1.[[University-1652: A multi-view multi-source benchmark for drone-based geo-localization]](https://github.com/layumi/University1652-Baseline)
+
+2.[[Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization]](https://github.com/wtyhub/LPN)
 
 
