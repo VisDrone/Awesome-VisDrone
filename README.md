@@ -8,6 +8,11 @@ The VisDrone2019 dataset is collected by the AISKYEYE team at Lab of Machine Lea
 
 http://aiskyeye.com/
 
+### University-1652 
+We collect 1652 buildings of 72 universities around the world. University-1652 contains data from three platforms, i.e., synthetic drones, satellites and ground cameras of 1,652 university buildings around the world. To our knowledge, University-1652 is the first drone-based geo-localization dataset and enables two new tasks, i.e., drone-view target localization and drone navigation.
+
+https://github.com/layumi/University1652-Baseline 
+
 ### UAV123
 Video captured from low-altitude UAVs is inherently different from video in popular tracking datasets like OTB50, OTB100, VOT2014, VOT2015, TC128, and ALOV300++. Therefore, we propose a new dataset (UAV123) with sequences from an aerial viewpoint, a subset of which is meant for long-term aerial tracking (UAV20L). Our new UAV123 dataset contains a total of 123 video sequences and more than 110K frames making it the second largest object tracking dataset after ALOV300++. All sequences are fully annotated with upright bounding boxes. 
 
@@ -124,6 +129,11 @@ Emmanuel Maggiori, Yuliya Tarabalka, Guillaume Charpiat and Pierre Alliez. “Ca
 ### Crowd Analysis 
 
 
+### Visual Geo-localization
+
+Please check the leaderboard at https://github.com/layumi/University1652-Baseline/tree/master/State-of-the-art 
+
+
 ### Challenge Results 
 VisDrone-DET2018: The Vision Meets Drone Object Detection in Image Challenge Results. ECCV Workshops (5) 2018: 437-468.
 
@@ -131,6 +141,7 @@ VisDrone-SOT2018: The Vision Meets Drone Single-Object Tracking Challenge Result
 
 VisDrone-VDT2018: The Vision Meets Drone Video Detection and Tracking Challenge Results. ECCV Workshops (5) 2018: 496-518. 
 
+UAVM: UAVs in Multimedia: Capturing the World from a New Perspective ACM MM Workshops (4) 2023
 
 ### Others 
 
